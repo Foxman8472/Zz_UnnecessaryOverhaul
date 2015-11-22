@@ -1,0 +1,386 @@
+[
+  {
+    "Id": 1,
+    "Name": "Your journal!",
+    "Description": "Objectives and story progress are on the right-hand side. Mouse over an icon or click on the category heading to see details.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 2,
+    "Name": "Your officers!",
+    "Description": "Left-click and drag to assign officers, or right-click to speak to them. Assigned officers give ability bonuses.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 3,
+    "Name": "Shops",
+    "Description": "Here you can buy fuel, supplies, ship equipment and trade goods. Shops are displayed on the left. Click on one to see its wares.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 4,
+    "Name": "Echoes",
+    "Description": "London's currency is the Echo. To earn money, explore the map and bring back port reports and treasures. You can trade, too, but exploration and stories are much more profitable.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 5,
+    "Name": "Setting zail",
+    "Description": "Click the launch button to leave port.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 6,
+    "Name": "Movement",
+    "Description": "Use the WSAD keys to move. Tap W twice to reach max speed. Tap S to slow down or reverse. And use the A and D keys to steer.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 7,
+    "Name": "Terror",
+    "Description": "When you see green running lights on the ship, you're in the dark, and your crew's terror will increase. Watch the pips on the terror indicator. It increases faster when you're far from land. Don't let it reach 100.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 8,
+    "Name": "Headlights",
+    "Description": "Your prow light can be turned on or off. Leaving it on reduces the rate at which you gain Terror, but makes you more visible to enemies.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 9,
+    "Name": "Fragments",
+    "Description": "You receive Fragments when you discover new places. Acquire enough of them and you'll gain a Secret. \n\nYou can use Secrets to improve your captain's skills (by talking to Officers), or for some key stories.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 10,
+    "Name": "Docking",
+    "Description": "To visit this port, click the dock button.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 11,
+    "Name": "Secrets",
+    "Description": "You can spend Secrets to improve your abilities. To do so, right-click on an officer to start a conversation.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 12,
+    "Name": "Something Awaits You",
+    "Description": "After a short time at zee, a lamp icon will appear above the log book. It means that opportunities await you at the next port.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 13,
+    "Name": "Ports",
+    "Description": "That circle of light is a port! Go there for stories.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 14,
+    "Name": "Zee-bat",
+    "Description": "When you are far from land, click on the zee-bat icon. It will search for undiscovered locations nearby.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 15,
+    "Name": "Zee-bat",
+    "Description": "Your zee-bat has discovered something! Click on the message to mark the location on your chart.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 16,
+    "Name": "Chart",
+    "Description": "Click on the chart icon to view your discoveries so far.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 17,
+    "Name": "Keyboard shortcuts",
+    "Description": "Most icons have keyboard shortcuts - mouse over to see them.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 18,
+    "Name": "Combat",
+    "Description": "You've encountered an opponent! The red arc shows the range of your deck gun. Keep the enemy in range while your crew works out a firing solution. \n\nThis will happen faster if you keep the enemy in your prow light. The deck gun will be highlighted as your crew make progress towards a firing solution. (Press space or close the tutorial to continue.)",
+    "ShouldPause": true
+  },
+  {
+    "Id": 19,
+    "Name": "Carnot Engine",
+    "Description": "Switches to Carnot engine. The carnot engine allows for maximum yield of a unit of Fuel. The remainder of the Fuel barrel in use will be consumed at 1% of the normal rate. The Carnot engine is slower than the normal engine, only producing a third of the normal engine's thrust.",
+    "ShouldPause": true
+  },
+  {
+    "Id": 20,
+    "Name": "Firing solution",
+    "Description": "Your firing solution is ready! To attack your opponent, click on the deck weapon.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 21,
+    "Name": "Claiming your prize",
+    "Description": "Congratulations! You've defeated your opponent. Move to the site of their demise to salvage something.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 22,
+    "Name": "Hull Damage",
+    "Description": "Your hull is damaged! You can repair it in London's drydocks, or at zee by clicking the repair button. Repairs at zee are slow and consume supplies.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 23,
+    "Name": "Supplies",
+    "Description": "You're low on supplies. Once you run out your crew will begin to starve. You can buy more in certain ports.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 24,
+    "Name": "Fuel",
+    "Description": "You're low on fuel. Buy more before you run out, or you will be stranded in the dark.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 25,
+    "Name": "Crew",
+    "Description": "You've lost a crew member. Lose too many and your speed will be reduced; lose them all and you too will die. You can always engage more in London, and sometimes other ports.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 26,
+    "Name": "Terror",
+    "Description": "Your crew's terror is reaching dangerous levels. You can lower it in certain ports, and slow its rise by staying close to land and keeping your prow light on.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 27,
+    "Name": "Damage",
+    "Description": "Careful! Your hull just took damage from a collision. If you have trouble steering around rocks, try slowing down or going backwards with the S key.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 28,
+    "Name": "Hold",
+    "Description": "Your hold is almost full. If you exceed your maximum cargo capacity while outside port, you'll have to throw some overboard.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 29,
+    "Name": "Hull Damage",
+    "Description": "Your hull is below half strength! Enemy attacks may now do additional damage to your terror, crew, or supplies.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 30,
+    "Name": "Horn",
+    "Description": "Pressing the H key will blow your horn. This has no useful function, and may provoke nearby zee-beasts or hostile vessels.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 31,
+    "Name": "Such wealth!",
+    "Description": "You've earned enough Echoes to buy better equipment for your ship! Click on the shops tab. A new engine or deck weapon would be a good first purchase.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 32,
+    "Name": "Well provisioned",
+    "Description": "You are now well provisioned! Try venturing further from London. The risks are greater, but so are the rewards.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 1,
+    "Name": "Your journal!",
+    "Description": "Objectives and story progress are on the right-hand side. Mouse over an icon or click on the category heading to see details.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 2,
+    "Name": "Your officers!",
+    "Description": "Left-click and drag to assign officers, or right-click to speak to them. Assigned officers give ability bonuses.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 3,
+    "Name": "Shops",
+    "Description": "Here you can buy fuel, supplies, ship equipment and trade goods. Shops are displayed on the left. Click on one to see its wares.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 4,
+    "Name": "Echoes",
+    "Description": "London's currency is the Echo. To earn money, explore the map and bring back port reports and treasures. You can trade, too, but exploration and stories are much more profitable.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 5,
+    "Name": "Setting zail",
+    "Description": "Click the launch button to leave port.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 6,
+    "Name": "Movement",
+    "Description": "Use the WSAD keys to move. Tap W twice to reach max speed. Tap S to slow down or reverse. And use the A and D keys to steer.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 7,
+    "Name": "Terror",
+    "Description": "When you see green running lights on the ship, you're in the dark, and your crew's terror will increase. Watch the pips on the terror indicator. It increases faster when you're far from land. Don't let it reach 100.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 8,
+    "Name": "Headlights",
+    "Description": "Your prow light can be turned on or off. Leaving it on reduces the rate at which you gain Terror, but makes you more visible to enemies.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 9,
+    "Name": "Fragments",
+    "Description": "You receive Fragments when you discover new places. Acquire enough of them and you'll gain a Secret. \n\nYou can use Secrets to improve your captain's skills (by talking to Officers), or for some key stories.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 10,
+    "Name": "Docking",
+    "Description": "To visit this port, click the dock button.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 11,
+    "Name": "Secrets",
+    "Description": "You can spend Secrets to improve your abilities. To do so, right-click on an officer to start a conversation.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 12,
+    "Name": "Something Awaits You",
+    "Description": "After a short time at zee, a lamp icon will appear above the log book. It means that opportunities await you at the next port.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 13,
+    "Name": "Ports",
+    "Description": "That circle of light is a port! Go there for stories.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 14,
+    "Name": "Zee-bat",
+    "Description": "When you are far from land, click on the zee-bat icon. It will search for undiscovered locations nearby.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 15,
+    "Name": "Zee-bat",
+    "Description": "Your zee-bat has discovered something! Click on the message to mark the location on your chart.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 16,
+    "Name": "Chart",
+    "Description": "Click on the chart icon to view your discoveries so far.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 17,
+    "Name": "Keyboard shortcuts",
+    "Description": "Most icons have keyboard shortcuts - mouse over to see them.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 18,
+    "Name": "Combat",
+    "Description": "You've encountered an opponent! The red arc shows the range of your deck gun. Keep the enemy in range while your crew works out a firing solution. \n\nThis will happen faster if you keep the enemy in your prow light. The deck gun will be highlighted as your crew make progress towards a firing solution. (Press space or close the tutorial to continue.)",
+    "ShouldPause": true
+  },
+  {
+    "Id": 19,
+    "Name": "Carnot Engine",
+    "Description": "Switches to Carnot engine. The carnot engine allows for maximum yield of a unit of Fuel. The remainder of the Fuel barrel in use will be consumed at 1% of the normal rate. The Carnot engine is slower than the normal engine, only producing a third of the normal engine's thrust.",
+    "ShouldPause": true
+  },
+  {
+    "Id": 20,
+    "Name": "Firing solution",
+    "Description": "Your firing solution is ready! To attack your opponent, click on the deck weapon.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 21,
+    "Name": "Claiming your prize",
+    "Description": "Congratulations! You've defeated your opponent. Move to the site of their demise to salvage something.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 22,
+    "Name": "Hull Damage",
+    "Description": "Your hull is damaged! You can repair it in London's drydocks, or at zee by clicking the repair button. Repairs at zee are slow and consume supplies.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 23,
+    "Name": "Supplies",
+    "Description": "You're low on supplies. Once you run out your crew will begin to starve. You can buy more in certain ports.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 24,
+    "Name": "Fuel",
+    "Description": "You're low on fuel. Buy more before you run out, or you will be stranded in the dark.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 25,
+    "Name": "Crew",
+    "Description": "You've lost a crew member. Lose too many and your speed will be reduced; lose them all and you too will die. You can always engage more in London, and sometimes other ports.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 26,
+    "Name": "Terror",
+    "Description": "Your crew's terror is reaching dangerous levels. You can lower it in certain ports, and slow its rise by staying close to land and keeping your prow light on.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 27,
+    "Name": "Damage",
+    "Description": "Careful! Your hull just took damage from a collision. If you have trouble steering around rocks, try slowing down or going backwards with the S key.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 28,
+    "Name": "Hold",
+    "Description": "Your hold is almost full. If you exceed your maximum cargo capacity while outside port, you'll have to throw some overboard.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 29,
+    "Name": "Hull Damage",
+    "Description": "Your hull is below half strength! Enemy attacks may now do additional damage to your terror, crew, or supplies.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 30,
+    "Name": "Horn",
+    "Description": "Pressing the H key will blow your horn. This has no useful function, and may provoke nearby zee-beasts or hostile vessels.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 31,
+    "Name": "Such wealth!",
+    "Description": "You've earned enough Echoes to buy better equipment for your ship! Click on the shops tab. A new engine or deck weapon would be a good first purchase.",
+    "ShouldPause": false
+  },
+  {
+    "Id": 32,
+    "Name": "Well provisioned",
+    "Description": "You are now well provisioned! Try venturing further from London. The risks are greater, but so are the rewards.",
+    "ShouldPause": false
+  }
+]
